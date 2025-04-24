@@ -1,0 +1,9 @@
+{
+  "com.tencent.mm": {
+    "ids": ["id/skip_btn"],
+    "texts": ["跳过"]
+  },
+  "com.taobao.taobao": {
+    "click_bounds": [0.8, 0.1, 0.95, 0.2]
+  }
+}
